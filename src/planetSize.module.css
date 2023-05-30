@@ -1,0 +1,35 @@
+.Earth {
+  width: 400px;
+}
+.Mars {
+  width: 286px;
+}
+.Mercury {
+  width: 240px;
+}
+.Venus {
+  width: 350px;
+}
+.Jupiter {
+  width: 532px;
+}
+.Saturn {
+  width: 694px;
+}
+.Uranus {
+  width: 408px;
+}
+.Neptune {
+  width: 400px;
+}
+
+.geology {
+  position: absolute;
+
+  width: 150px;
+}
+@media (max-width: 1000px) {
+  .Saturn {
+    width: 594px;
+  }
+}

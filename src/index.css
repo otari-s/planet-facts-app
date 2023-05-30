@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "League Spartan", sans-serif;
+}
+body {
+  background-color: #050518;
+  color: white;
+  background-image: url("../assets/background-stars.svg");
+
+  background-position: center;
+  background-size: cover;
+}
