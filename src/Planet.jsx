@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { planetFacts } from "./data";
 import styles from "./planetSize.module.css";
-import logo from "../assets/icon-source.svg";
+import logo from "../public/assets/icon-source.svg";
 
 function processData(planetFacts, planetName) {
   const planet = planetFacts.find((el) => el.name === planetName);

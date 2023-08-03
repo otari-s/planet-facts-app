@@ -1,4 +1,3 @@
-import React from "react";
 import { planetFacts } from "./data";
 function Header({ setPlanetName }) {
   return (
